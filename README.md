@@ -9,6 +9,8 @@
 | MISO_1 (GPIO19) | <--> | DO |
 | GPIO26 | <--> | IRQ |
 
+
+## Rasspberry Setup
 ```
 sudo nano /boot/config.txt
 ```
