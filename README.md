@@ -21,6 +21,12 @@ dtoverlay=spi1-3cs
 
 ### 重新開機
 
+## 執行
+
+touch_test.py 將會回傳 XY值
+example.py 範例程式
+
+
 ## Reference：[XPT2046-Python](https://github.com/Luca8991/XPT2046-Python)
 
 
