@@ -23,7 +23,7 @@ dtoverlay=spi1-3cs
 
 ## 執行
 
-touch_test.py 將會回傳 XY值
+touch_test.py 將會回傳 XY值、
 example.py 範例程式
 
 
